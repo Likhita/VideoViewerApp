@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">VideoApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_logout">Logout</string>
+    <string name="title_activity_main">Video App</string>
+    <string name="text_username">User ID </string>
+    <string name="text_password">Password</string>
+    <string name="Login_button">Log in</string>
+    <string name="title_activity_display_course_list">Course List</string>
+    <string name="title_activity_play_video">Play Video </string>
+    <string name="send_button">Post Question</string>
+    <string name="hint_question">Enter your question here</string>
+    <string name="title_activity_course_list">Course List</string>
+    <string name="title_activity_video_list">Video List</string>
+    <string name="text_userid">User ID</string>
+    <string name="button_login">Login</string>
+    <string name="button_questionlist">Question List</string>
+    <string name="button_askquestion">Post Question</string>
+    <string name="button_answerlist">Answer List</string>
+    <string name="title_activity_question_list">Question List</string>
+    <string name="title_activity_answer_list">Answer List</string>
+    <string name="button_postanswer">Post Answer</string>
+    <string name="text_question">Question</string>
+    <string name="edit_enterquestion">Enter your question here</string>
+    <string name="menu_settings">Settings</string>
+    <string name="text_listofanswers">List of answers posted : (Scroll down the list to see more answers)</string>
+    <string name="text_welcome">Welcome ! Please Login </string>
+    <string name="Button_play">Play Video for this question</string>
+    <string name="edit_user">1038</string>
+    <string name="edit_password">India</string>
+
+</resources>
